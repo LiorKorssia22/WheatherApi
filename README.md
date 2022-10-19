@@ -1,3 +1,13 @@
+
+RUN IN CMD WITH: CD (FULL PATH)
+NPM START
+
+https://user-images.githubusercontent.com/104680899/196651084-c7d4089c-3fe8-4f64-8d2b-d84a6f0f640f.mp4
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
